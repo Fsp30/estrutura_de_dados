@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1760108406 source:c:\users\aluno\data_structure\static_stack\main.c
+	"stack.h"
+	<stdio.h>
+	<locale.h>
+
+1760107800 c:\users\aluno\data_structure\static_stack\stack.h
+
+1760108156 source:c:\users\aluno\data_structure\static_stack\stack.c
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	"stack.h"
+
