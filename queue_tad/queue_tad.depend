@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1761317086 source:c:\users\aluno\downloads\estrutura de dados\queue_tad\fila_circular.c
+	"fila_circular.h"
+	<stdio.h>
+
+1761317059 c:\users\aluno\downloads\estrutura de dados\queue_tad\fila_circular.h
+
+1761317416 source:c:\users\aluno\downloads\estrutura de dados\queue_tad\main.c
+	<stdio.h>
+	<locale.h>
+	"fila_circular.h"
+
