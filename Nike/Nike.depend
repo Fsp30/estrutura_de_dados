@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1765549318 source:c:\users\aluno\data_structure\trees\nike\main.c
+
+1765550388 source:c:\users\aluno\data_structure\trees\nike\binaria.c
+	"binaria.h"
+	<stdio.h>
+	<stdlib.h>
+
+1765550320 c:\users\aluno\data_structure\trees\nike\binaria.h
+
+1765550579 source:c:\users\aluno\data_structure\trees\nike\exercicios.c
+
