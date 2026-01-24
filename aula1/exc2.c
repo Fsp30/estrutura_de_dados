@@ -2,11 +2,13 @@
 
 
 int main(){
-    int a, b, c;
-    printf("\nDigite o primeiro valor: ");
-    scanf("%d", &a);
+    int a;
+    while(1){
+      printf("\nDigite o primeiro valor: ");
+      scanf("%d", &a);
 
-    printf("O quadrado de %d eh %d", a ,a*a);
+      printf("\nO quadrado de %d eh %d", a ,a*a);
+    }
     return 0;
 
 }
